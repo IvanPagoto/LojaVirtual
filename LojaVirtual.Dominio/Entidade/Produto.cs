@@ -13,6 +13,5 @@ namespace LojaVirtual.Dominio.Entidade
         public string Descricao { get; set; }
         public Decimal Preco { get; set; }
         public string Categoria { get; set; }
-
     }
 }
